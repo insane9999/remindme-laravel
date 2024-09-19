@@ -1,0 +1,1 @@
+export { default as Layout1 } from './layout1/Layout1';
